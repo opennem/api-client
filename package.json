@@ -1,0 +1,12 @@
+{
+  "name": "@opennem/api",
+  "version": "0.0.1",
+  "description": "OpenNEM API Client",
+  "main": "src/index.js",
+  "repository": "https://github.com/opennem/api-client",
+  "author": "OpenNEM <git@opennem.org.au>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
